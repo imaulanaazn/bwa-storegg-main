@@ -25,7 +25,9 @@ function Home() {
       <Footer />
       <div
         className="credits"
-        style={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}
+        style={{ 
+          width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' 
+        }}
       >
         <p style={{ borderBottom: '1px dashed black', backgroundColor: 'white' }}>
           Built by
