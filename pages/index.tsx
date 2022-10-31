@@ -26,7 +26,7 @@ function Home() {
       <div
         className="credits"
         style={{
-          width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center'
+          width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center',
         }}
       >
         <p style={{ borderBottom: '1px dashed black', backgroundColor: 'white' }}>
